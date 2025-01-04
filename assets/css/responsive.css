@@ -233,6 +233,7 @@
     }
     .whaybest .feature-list {
         margin-top: 50px;
+        flex-wrap: wrap;
     }
     .whaybest .feature-list li {
         margin-bottom: 22px;
