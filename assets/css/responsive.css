@@ -315,12 +315,17 @@
         margin-bottom: 0px;
     }
     .home9 .hero-area {
-        padding: 178px 0px 120px;
+        padding: 125px 0px 50px;
     }
     .home9 .hero-area .left-content .content .title {
         font-size: 40px;
         line-height: 50px;
     }
+
+    .about, .whaybest,.feature,.video, .testimonial-area, .faq, .contact{
+        padding: 80px 0 80px;
+    }
+        
 }
 
 
@@ -332,9 +337,11 @@
         border-top: 50px solid #fff;
     }
     .footer .copy-bg {
-        margin-top: 96px;
+        margin-top: 0;
     }
-
+    .footer.container{
+        padding-inline: 15px !important;
+    }
     .hero-area .right-img .discount-circle {
         left: 60px;
         top: 70px;
@@ -374,6 +381,13 @@
     .home9 .hero-area .right-img {
         padding: 0px 101px;
     }
+     .home9 .hero-area {
+        padding: 100px 0px 50px;
+    }
+    .about, .whaybest,.feature,.video, .testimonial-area, .faq, .contact{
+        padding: 50px 0 50px;
+    }
+      
 }
 
 
@@ -415,6 +429,9 @@
     }  
     .home9 .hero-area .right-img {
         padding: 0px 101px;
+    }
+    #footer{
+        margin-top: 0;
     }
 }
 
